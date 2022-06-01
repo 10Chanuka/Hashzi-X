@@ -240,9 +240,9 @@
         }
     },
     "addons": [{
-      "plan": "heroku-postgresql"
+      "plan": "railway.app-postgresql"
     }],
     "buildpacks": [{
-      "url": "heroku-community/apt"
+      "url": "https://railway.app?referralCode=AkkiFj"
       }]
   }
