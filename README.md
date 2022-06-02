@@ -100,6 +100,7 @@ Amazone Alexa bot ගොඩනැගීමට ඔබට ජංගම දුර�
 #### QR කේතය ලබා ගත් පසු පහල බටනය ඔබලා Bot deploy කරන්න
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
 # Deploy on railway
+
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/_Uoiyx?referralCode=AkkiFj)
 
 > [සම්පූර්ණ සිංහල Tutorial](https://www.youtube.com/watch?v=mcEeIspWOpY&ab_channel=UC8yo_BwOJs9cLfYVHewPC6Q)
